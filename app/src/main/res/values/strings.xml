@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">screen1</string>
+    <string name="tatvsoft">tatvaasoft</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_the_contect_number">Enter The Contect Number</string>
+    <string name="enter_the_emaill">Enter the emaill</string>
+    <string name="next">Next</string>
+    <string name="enter_the_password">Enter the Password</string>
+</resources>
